@@ -14,12 +14,18 @@
 
 ## Contents
 
-1. [2026-10-06 — Work session](#2026-10-06-work-session)
+1. [2026-10-06 — I worked on the schematics, importing libraries and having a bit of confusion on that because I initially didn't import the "Imported things" folder lol.](#2026-10-06-i-worked-on-the-schematics-importing-libraries-an)
 
 ## Design
 
-### 2026-10-06 — Work session
+### 2026-10-06 — I worked on the schematics, importing libraries and having a bit of confusion on that because I initially didn't import the "Imported things" folder lol.
 
 **1.73h**
+
+I worked on the schematics, importing libraries and having a bit of confusion on that because I initially didn't import the "Imported things" folder lol.
+Most of the time was working on cosmetics - I wanted to make something for LOL but wasn't sure, so after some internal debate, I chose the mastery symbol. Initially, I wasn't sure what cool things I could do with it until doing some research and realizing I could have shiny parts, different colors, etc etc. I was confused with how to get things "grayed out" and what the layers are for, but after fiddling around and doing research, I now know that each layer is essentially a different "layer" on the pcb where cool things could be added to get different textures and colors + properties (GND pour supposedly has some electrical effects if isolated?).
+It was a fun session - tomorrow I will add the GND pour and silkscreen layers to make it look all cool + wire the pcb
+P.S. i just scrolled down and realized there was a link for transforming my image into vectors :((( well i got the job done anyways
+I'm also worried about logging coding time - hackatime hasn't been working for me well? and in Lapse, it said most of my work was on a github repo I didn't work on. I'm quite confused - hopefully i'll get it sorted out.
 
 [Timelapse](https://lookout.hackclub.com/api/media/a36f96a2-09b9-44eb-899a-07f5250d03a8/video.mp4)
