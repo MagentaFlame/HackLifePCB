@@ -42,6 +42,8 @@ Routing the pcbs were a chore lolll. I had to play the flow game with them, figu
 The extra half hour I'm adding as additional was the last half hour - I didn't even realize I paused it, but in this last half hour I finished up the silkscreen stuff and made the copper routes cooler and more purposeful to the detailing, so not shortest route lol. I think I  might have done some other stuff but those were probably just minor details then.
 Next step - code! I hope my github and wakatime and whatnot will actually work so my code hours will be logged correctly - I'm not sure if I can reach 10 hours this week on this project, so maybe I will add a button or something?
 
+tldr: added pcb designs + learned about gnd pour and silkscreen! Routed pcb (difficult, but used them as cosmetics as well based on route lol)
+
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sdadIUjTGUgBWYnw4oD9AlhN8OBC1j3h/11d44f7aedc75d1272972098d4fe1c093199ad29bc8338f3e53c020f3b5c4dbb.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/053b9525-86d9-4c86-b516-c345e0bc1860/video.mp4)
