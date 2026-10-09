@@ -30,6 +30,8 @@ It was a fun session - tomorrow I will add the GND pour and silkscreen layers to
 P.S. i just scrolled down and realized there was a link for transforming my image into vectors :((( well i got the job done anyways
 I'm also worried about logging coding time - hackatime hasn't been working for me well? and in Lapse, it said most of my work was on a github repo I didn't work on. I'm quite confused - hopefully i'll get it sorted out.
 
+tldr: finished schematics + added bottom layer in pcb
+
 [Timelapse](https://lookout.hackclub.com/api/media/a36f96a2-09b9-44eb-899a-07f5250d03a8/video.mp4)
 
 ### 2026-10-07 – I finished all the customization!!
