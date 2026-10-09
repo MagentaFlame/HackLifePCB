@@ -63,6 +63,8 @@ I'm also not too satisfied with the aesthetics - I really wanted just the master
 
 The images include one of my errors before I asked for help and one of my work after the help. I'm asking for confirmation on the vias for their function - hopefully they work. Also, thank you to the guy who helped me search up good beginner hardware parts and tell me about the compatibility stuff between the microcontroller, switches, and batteries!
 
+tldr: finished editing some cosmetics, added battery + switch + fuse with help, worked with vias and choosing parts
+
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sdadIUjTGUgBWYnw4oD9AlhN8OBC1j3h/5d98942282790399374b9683df9389ca3893705a2e3c5714686815c8410ea7dd.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sdadIUjTGUgBWYnw4oD9AlhN8OBC1j3h/579ba11237e163b678d95c487a480130ba7663a98fb04bb2cc126f3488f3cc66.png)
