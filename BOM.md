@@ -18,7 +18,7 @@
 | [ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa) | Main microcontroller | 1 | $4.99 | $4.99 | [SeeedStudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa) |
 | [DHT11 Environmental Sensor 5pc](https://www.amazon.com/Digital-Temperature-Humidity-Sensor-Module/dp/B0G2BGJSMV/ref=sr_1_6?crid=2XDSDQF5TL1YX&dib=eyJ2IjoiMSJ9.0nTZHxlstGMjLJpBXRQXh8AjgwyIGSbxkbwzPqBM7AmQBfN2h13fXhgpoPEyyp-Bu8JwQ0aEqdewslFodpfclBsB0AFFQODEa7s4WBOMxACn4y32DJYX022xRwgMjKNS-_tSeW8JIjwIOZA_EhnYpQ.rb1tAoMeiPTKpDCURPPQ5Fm0JEtxPjMbkF3LPVgzqNw&dib_tag=se&keywords=dht11+5.5x12.0&qid=1791735937&sprefix=dht11+5.5x12.0%2Caps%2C108&sr=8-6) | Sense temperature and humidity of surroundings | 1 | $6.64 | $6.64 | [Amazon](https://www.amazon.com/Digital-Temperature-Humidity-Sensor-Module/dp/B0G2BGJSMV/ref=sr_1_6?crid=2XDSDQF5TL1YX&dib=eyJ2IjoiMSJ9.0nTZHxlstGMjLJpBXRQXh8AjgwyIGSbxkbwzPqBM7AmQBfN2h13fXhgpoPEyyp-Bu8JwQ0aEqdewslFodpfclBsB0AFFQODEa7s4WBOMxACn4y32DJYX022xRwgMjKNS-_tSeW8JIjwIOZA_EhnYpQ.rb1tAoMeiPTKpDCURPPQ5Fm0JEtxPjMbkF3LPVgzqNw&dib_tag=se&keywords=dht11+5.5x12.0&qid=1791735937&sprefix=dht11+5.5x12.0%2Caps%2C108&sr=8-6) |
 | **Parts subtotal** | — | — | — | **$16.69** | — |
-| **Tax & shipping** | — | — | — | **$12.24** | — |
-| **Total** | — | — | — | **$28.93** | — |
+| **Tax & shipping** | — | — | — | **$20.73** | — |
+| **Total** | — | — | — | **$37.42** | — |
 
-$1.07 left of the tier's funding.
+**$7.42 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
