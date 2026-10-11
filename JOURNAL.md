@@ -18,7 +18,7 @@
 2. [2026-10-07 – I finished all the customization!!](#2026-10-07-i-finished-all-the-customization)
 3. [2026-10-08 – learned: single pole double throw switch](#2026-10-08-learned-single-pole-double-throw-switch)
 4. [2026-10-09 – I clicked some back button so my first lapse didn't save :((](#2026-10-09-i-clicked-some-back-button-so-my-first-lapse-didn)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – Today was quite unfortunate.](#2026-10-11-today-was-quite-unfortunate)
 
 ## Design
 
@@ -93,8 +93,21 @@ tldr: finished installation after errors and issues, set up environment includin
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sdadIUjTGUgBWYnw4oD9AlhN8OBC1j3h/bf2997eca907744d939a0b0dd6f50741c4c0723601346e62e667be9bed2e17a8.png)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Today was quite unfortunate.
 
 **2.37h**
+
+Today was quite unfortunate.
+I initially had a battery, so great. But, when getting parts for it, I realized that the lithium ion battery wouldn't be protected due to the size of the battery holder. If I wanted to change the footprint, the materials cost (of a protected battery, switch, fuse, battery holder) will exceed my budget, and I cannot pay the extra.
+If i don't invest in a protected lithium battery, I would need to use this IC chip thing, or do software changes that, frankly, I'm incredibly not confident in. I don't have enough time today to actually research and figure out the IC thing, and considering the cost as well, it was difficult to implement.
+So, I decided to scrap the battery.
+The initial reason for the battery was so I could bring it to school and fiddle around with it. I could just connect it to my school chromebook if needed though.
+I also didn't want to risk a safety hazard because of my incompetence in hardware assembling or in the design and materials itself. Perhaps for later projects, with more confidence and safety precautions, I would add a battery. For now, I just feel incredibly not confident about it, so I'm not gonna risk it.
+
+Anyways, I also figured out the code for the pcb! I added 2 different sprites on top of customizing the initial state sprite. My sprite is a poro from League of Legends. When it is napping, the sprite will become a sleeping poro, and I did it by just adding the display line with an adjusted variable I created under the if statement of napping. Similarily (though there was no if statement. I just traced the logic of the code), I added a poro winking for the heart effect. Hopefully it works.
+
+I want to add different trails depending on factors, but I do want to see the sparkle trail in person before choosing.
+
+tldr: took off the battery system due to safety concerns and budget restraints. added customizations to the code outside of offered extensions in the project guidelines
 
 [Timelapse](https://lookout.hackclub.com/api/media/139644a5-5698-4b72-a556-8579a8e0549b/video.mp4)
