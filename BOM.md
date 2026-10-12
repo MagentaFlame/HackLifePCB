@@ -19,7 +19,7 @@
 | [DHT11 Environmental Sensor 5pc](https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4) | Sense temperature and humidity of surroundings | 1 | $0.67 | $0.67 | [Alibaba](https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4) |
 | [Slide Switch SMD P1.27mm](https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7) | Toggle changing of sprites | 1 | $0.21 | $0.21 | [Alibaba](https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7) |
 | **Parts subtotal** | — | — | — | **$9.01** | — |
-| **Tax & shipping** | — | — | — | **$12.36** | — |
-| **Total** | — | — | — | **$21.37** | — |
+| **Tax & shipping** | — | — | — | **$18.64** | — |
+| **Total** | — | — | — | **$27.65** | — |
 
-$8.63 left of the tier's funding.
+$2.35 left of the tier's funding.
