@@ -18,7 +18,7 @@
 | [ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa) | Main microcontroller | 1 | $4.99 | $4.99 | [SeeedStudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa) |
 | [DHT11 Environmental Sensor 5pc](https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4) | Sense temperature and humidity of surroundings | 1 | $0.67 | $0.67 | [Alibaba](https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4) |
 | **Parts subtotal** | — | — | — | **$8.80** | — |
-| **Tax & shipping** | — | — | — | **$6.94** | — |
-| **Total** | — | — | — | **$15.74** | — |
+| **Tax & shipping** | — | — | — | **$12.36** | — |
+| **Total** | — | — | — | **$21.16** | — |
 
-$14.26 left of the tier's funding.
+$8.84 left of the tier's funding.
