@@ -19,7 +19,7 @@
 | [Slide Switch SMD P1.27mm](https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7) | Toggle changing of sprites | 1 | $0.21 | $0.21 | [Alibaba](https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7) |
 | [Custom PCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&spm=Jlcpcb.Instantquote.1005&_t=1791774087198&up_spm=Jlcpcb.Loginpage.1003) | The main board everything's going to be soldered onto, used coupon code | 1 | $8.11 | $8.11 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&spm=Jlcpcb.Instantquote.1005&_t=1791774087198&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$15.92** | — |
-| **Tax & shipping** | — | — | — | **$13.74** | — |
-| **Total** | — | — | — | **$29.66** | — |
+| **Tax & shipping** | — | — | — | **$18.64** | — |
+| **Total** | — | — | — | **$34.56** | — |
 
-$0.34 left of the tier's funding.
+**$4.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
