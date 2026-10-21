@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,Price,Link,TotalCostWithShipping
+J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,1.33,https://www.alibaba.com/product-detail/0-96-inch-OLED-LCD-Screen_1601577992701.html?spm=a2700.details.0.0.616f37fdcf9Bl3,
+J2,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08_Pin,0.38,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300811121/4846839,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10k,0.23,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C1200FCT00/5062234,
+"SW1, SW2",SW_Cherry_MX_1.00u_PCB,2,SW_Push,N/A,N/A(not_buy_now),
+SW3,SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin,1,SW_SPST,0.21,https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7,
+U1,XIAO-ESP32-C3-SMD,1,XIAO-ESP32-C3-SMD,4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa,
+U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,0.67,https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4,
+N/A,Custom_PCB,1,PCB,3.30,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&spm=Jlcpcb.Instantquote.1005&_t=1791774087198&up_spm=Jlcpcb.Loginpage.1003,29.75
