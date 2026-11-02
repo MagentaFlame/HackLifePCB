@@ -1,0 +1,8 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+"I2C White 0.96"" inch OLED Display 128x64",1,Alibaba,$1.33,$1.33,https://www.alibaba.com/product-detail/0-96-inch-OLED-LCD-Screen_1601577992701.html?spm=a2700.details.0.0.616f37fdcf9Bl3
+"Pin Header 1x08 2.54mm, Resistor L3.6mm D1.6mm",1,DigiKey,$0.61,$0.61,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C1200FCT00/5062234                        https://www.digikey.com/en/products/detail/w-rth-elektronik/61300811121/4846839?gclsrc=aw.ds&gad_source=1&gad_campaignid=20234014242&gbraid=0AAAAADrbLliBFCd1DRj8rJvnRNyUyA7q1&gclid=CjwKCAjwoaLWBhAWEiwAnyituy3i_PEbhjHsN8GBZWQcF5Ow_DGtPaWpYhdctDDxA-Cermjlxl1mXRoCbSkQAvD_BwE
+ESP32-C3,1,SeeedStudio,$4.99,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XADEh9PdmsiFpftPsyzGWgemH091F4VEx7sQ6Ry-1lgkxEevQa
+DHT11 Environmental Sensor,1,Alibaba,$0.67,$0.67,https://www.alibaba.com/product-detail/Digital-Output-Temperature-and-Humidity-Sensor_1601207997981.html?spm=a2700.prosearch.normal_offer.d_title.7e6367afsMGlAW&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=44e7407afd244e859719c75e573c7cf4
+Slide Switch SMD P1.27mm,1,Alibaba,$0.21,$0.21,https://www.alibaba.com/product-detail/Original-KE-DIP-Switch-1-27mm_1601242189210.html?spm=a2700.prosearch.normal_offer.d_title.553167afwOGw3F&priceId=afb213ced54d4c4a8f615b34bed0d5b7
+Custom PCB,1,JLCPCB,$3.30,$3.30,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&spm=Jlcpcb.Instantquote.1005&_t=1791774087198&up_spm=Jlcpcb.Loginpage.1003
+Estimated total shipping,1,,,$18.64,
