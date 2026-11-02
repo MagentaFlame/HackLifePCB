@@ -140,5 +140,6 @@ finished the review suggestions - added stuff to the BOM + readme
 **0.33h**
 
 I changed the pcb so the microcontroller is basically at the edge - hopefully it's fine. Once I get a response from the really helpful ppl on Slack, I can submit!
+To do if works: update github readme + actual files + gerber and drill zip, update jlcpcb print estimate, get screenshots of all the carts and label
 
 [Timelapse](https://lookout.hackclub.com/api/media/25cff5b0-1425-4b56-bb1f-2554cbe0145b/video.mp4)
