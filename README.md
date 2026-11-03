@@ -12,10 +12,10 @@ Let's start with schematic.
 Other than the starter project parts, I added a switch so I could change between sprites. I just connected an IO to the switch one - a simple SPST slide switch.
 
 Next is PCB.
-<img width="687" height="614" alt="image" src="https://github.com/user-attachments/assets/f123316d-f916-48c2-b78d-7157660c39a7" />
+<img width="679" height="610" alt="image" src="https://github.com/user-attachments/assets/933d3c2a-fe81-4015-a254-0024640364b7" />
 I made it into a mastery symbol (LOL) shape, and used the pcb routing to form the front layer's detailing while adding silkscreen on the back to make the wings and gem pop out. 
 
 I plan to get a solder from the shop b/c I have no hardware tools basically. I have the basic arduino code modified to include sprite 1, but I plan to research a bit more during build week on how to use the switch to switch between sprites - should be just a variable connecting to the switch + a new set of variables and a few if statements, hopefully.
 
 Here's my BOM, links can be found in my project page in Half Life and the BOM.md in github.
-<img width="907" height="613" alt="image" src="https://github.com/user-attachments/assets/3fb65d8a-a949-492b-9e68-93be30d61eec" />
+<img width="904" height="627" alt="image" src="https://github.com/user-attachments/assets/745e4c99-86ed-4a7d-8f83-5b4c294eb726" />
